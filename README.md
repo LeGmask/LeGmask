@@ -11,7 +11,7 @@ I'm Evan, a French student born in Côtes-d'Armor (Bretagne, France), I have dis
 
 * Passionate by [Trackmania 🎮](http://trackmania.com/) , I'm working currently with [docker 🐳](https://www.docker.com/) to build easy to deploy server app, and to manage these docker containers, I've built a web app with [Vuejs](https://vuejs.org/) and an API , with the [nestjs](https://nestjs.com/) framework. This project is still private and dunno when he will be public :wink: 
 
-* By talking [Trackmania 🎮](http://trackmania.com/), I have also started a multiplayer editor plugin, but since manuscript API isn't fully complete, so this project was never finished and still on hold : [Grand 2 - Trackmania Multiplayer Editor](https://github.com/LeGmask/Grand-2)
+* By talking [Trackmania 🎮](http://trackmania.com/), I have also started a multiplayer editor plugin, but since manuscript API isn't fully complete, so this project was never finished and is still on hold : [Grand 2 - Trackmania Multiplayer Editor](https://github.com/LeGmask/Grand-2)
 
 * Also, I love new things, even if they are useless. So for my Numworks Calculator I've started to help a fork of the OS [Epsilon](https://github.com/numworks/epsilon), [Omega](https://github.com/Omega-Numworks/Omega).
 
