@@ -15,7 +15,7 @@ I'm Evan, a French student born in Côtes-d'Armor (Bretagne, France), I have dis
 
 * Also, I love new things, even if they are useless. So for my Numworks Calculator I've started to help a fork of the OS [Epsilon](https://github.com/numworks/epsilon), [Omega](https://github.com/Omega-Numworks/Omega).
 
-* Other projects are littler projects, funnier projects and if these projects interest you, you can take a look to my Github repository :Yum:
+* Other projects are littler projects, funnier projects and if these projects interest you, you can take a look to my Github repository :yum: !
 
 ## Things I loveheart:
 
