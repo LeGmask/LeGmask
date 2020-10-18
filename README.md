@@ -17,7 +17,7 @@ I'm Evan, a French student born in Côtes-d'Armor (Bretagne, France), I have dis
 
 * Other projects are littler projects, funnier projects and if these projects interest you, you can take a look to my Github repository :yum: !
 
-## Things I loveheart:
+## Things I love :heart:
 
 * Language : 
   - JavaScript / Typescript
