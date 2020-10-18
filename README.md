@@ -5,7 +5,7 @@
 I'm Evan, a French student born in Côtes-d'Armor (Bretagne, France), I have discovered programing in 2018 and since I'm learning a lot every day. 
 
 * 📚 Lycée général @ Guiguamp
-* 📍 Pleurisy - Côtes-d'Armor - Bretagne - France
+* 📍 Plouisy - Côtes-d'Armor - Bretagne - France
 
 ## 🚧 What's my current work ?
 
