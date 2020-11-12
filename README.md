@@ -1,3 +1,6 @@
+<p align="center">
+  <img alt="LeGmask's Github Stats" src="https://github-readme-stats.vercel.app/api?username=legmask&show_icons=true&include_all_commits=true&hide_border=false&theme=dark" />
+</p>
 # Hi there 👋, It's LeGmask !
 
 
