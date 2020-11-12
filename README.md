@@ -1,11 +1,12 @@
 <p align="center">
   <img alt="LeGmask's Github Stats" src="https://github-readme-stats.vercel.app/api?username=legmask&show_icons=true&include_all_commits=true&hide_border=false&theme=dark" />
 </p>
+
 # Hi there 👋, It's LeGmask !
 
 
 ## 😄 Who am I ?
-I'm Evan, a French student born in Côtes-d'Armor (Bretagne, France), I have discovered programing in 2018 and since I'm learning a lot every day. 
+I'm Evann, a French student born in Côtes-d'Armor (Bretagne, France), I have discovered programing in 2018 and since I'm learning a lot every day. 
 
 * 📚 Lycée général @ Guiguamp
 * 📍 Plouisy - Côtes-d'Armor - Bretagne - France
