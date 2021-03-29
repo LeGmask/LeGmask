@@ -13,11 +13,15 @@ I'm Evann, a French student born in Côtes-d'Armor (Bretagne, France), I have di
 
 ## 🚧 What's my current work ?
 
-* Passionate by [Trackmania 🎮](http://trackmania.com/) , I'm working currently with [docker 🐳](https://www.docker.com/) to build easy to deploy server app, and to manage these docker containers, I've built a web app with [Vuejs](https://vuejs.org/) and an API , with the [nestjs](https://nestjs.com/) framework. This project is still private and dunno when he will be public :wink: 
+* Passionate by [Trackmania 🎮](http://trackmania.com/) , I'm working currently with [docker 🐳](https://www.docker.com/) to build easy to deploy server app, and to manage these docker containers.
 
 * By talking [Trackmania 🎮](http://trackmania.com/), I have also started a multiplayer editor plugin, but since manuscript API isn't fully complete, so this project was never finished and is still on hold : [Grand 2 - Trackmania Multiplayer Editor](https://github.com/LeGmask/Grand-2)
 
 * Also, I love new things, even if they are useless. So for my Numworks Calculator I've started to help a fork of the OS [Epsilon](https://github.com/numworks/epsilon), [Omega](https://github.com/Omega-Numworks/Omega).
+
+* To facilitate the use of my computer in class, I've build a [desktop](https://github.com/schoolsyst/desktop) version of [schoolsyst wepapp](https://github.com/schoolsyst/webapp) using [electron](https://www.electronjs.org/). 
+
+* Recently, I've build my own [website/protfolio](https://github.com/LeGmask/portfolio) ^^, for this project i've used [react ⚛️](https://reactjs.org/).
 
 * Other projects are littler projects, funnier projects and if these projects interest you, you can take a look to my Github repository :yum: !
 
@@ -28,7 +32,11 @@ I'm Evann, a French student born in Côtes-d'Armor (Bretagne, France), I have di
   - C
   - C++
   - Bash
+  - php
+  - python
 * Framework :
+  - React
+  - Laravel
   - VueJs
   - NestJs
 
@@ -37,15 +45,16 @@ I'm Evann, a French student born in Côtes-d'Armor (Bretagne, France), I have di
 * [Epsilon](https://github.com/numworks/epsilon)
   - [Omega](https://github.com/Omega-Numworks/Omega)
 * [Schoolsyst](https://github.com/schoolsyst)
+* [Tiplanet](https://github.com/TI-Planet/)
 
 ## 📫 ✉ How to reach me ?
 
-- Send me mail @ [LeGmask](mailto:53308142+LeGmask@users.noreply.github.com)! 
-
+- Send me mail @ [LeGmask](mailto:hello@evann.tech)! 
+<!--
 ## :eyes:
 
 ![Visitor 🙋‍♂️](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FLeGmask)
-<!--
+
 **LeGmask/LeGmask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
