@@ -21,17 +21,17 @@ I'm Evann, a French student born in Côtes-d'Armor (Bretagne, France), I have di
 
 ## Things I love :heart:
 
-* Language : 
-  - python
+* Languages : 
+  - Python
   - JavaScript / Typescript
-  - C
-  - C++
-  - Bash
   - php
+  - html
+  - scss (🔥)
 
-* Framework :
+* Frameworks :
   - React
   - Laravel
+  - Sveltekit (🔥)
 
 <!--
 ## Some open 🔓 source project where I collaborate ?
