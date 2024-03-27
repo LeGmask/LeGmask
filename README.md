@@ -16,8 +16,8 @@
 
 I'm Evann, a French student born in Côtes-d'Armor (Bretagne, France), I have discovered programing in 2018 and since I'm learning a lot every day. 
 
-* 📚 bi-disciplinary bachelor's degree Biology-Modeling Data analysis @ Sorbonne Université — Roscoff Marine Station CNRS
-* 📍 Rosko — Finistère — Bretagne — France
+* 📚 Mostly computer science student at INP-ENSEEIHT (Toulouse) and sometimes developer
+* 📍 TLS - Haute-Garonne - Occitanie - France
 
 ## Things I love :heart:
 
