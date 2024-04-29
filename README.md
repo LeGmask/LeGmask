@@ -44,7 +44,7 @@ I'm Evann, a French student born in Côtes-d'Armor (Bretagne, France), I have di
 
 ## 📫 ✉ How to reach me ?
 
-- Send me mail @ [LeGmask](https://evann.tech/to/mail)! 
+- Send me mail @ [LeGmask](https://evann.dev/to/mail)! 
 <!--
 ## :eyes:
 
